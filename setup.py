@@ -11,7 +11,7 @@ setuptools.setup(
     description="A helper function to get a pytorch gpu device.",
     packages=["pytorch_get_gpu_device"],
     install_requires=[
-        'torch >= 1.11.0'
+        'torch >= 1.11'
     ],
     keywords=["pytorch", "gpu"],
     license="MIT",
